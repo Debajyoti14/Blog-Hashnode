@@ -25,7 +25,7 @@ This command is used to stage all untracked and modified files. git add . to sta
 
 ## 5. git status
 
-This Command is used to show the status of your files in the repository. like- untracked, modified
+This Command is used to show the status of your files in the repository like- untracked, modified etc.
 
 ## 6. git commit
 
